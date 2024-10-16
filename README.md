@@ -1,5 +1,4 @@
-# Data-Analyst-Challenge
-Challenge for Nimble Gravity made by Juan Pablo Estavillo
+# Data-Analyst-Project
 
 
 I solved this by making 2 rest APIs with PostgreSQL to show:
